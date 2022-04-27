@@ -1,4 +1,4 @@
-# pokemoncatching
+# Pokemon Matching 
 Pokemon Matching Game
 
 
